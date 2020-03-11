@@ -8,13 +8,19 @@
 		<h1>Use Case </h1>
 		<h2>Instagram post</h2>
 			<p>Cheryl is going to post a picture on instagram of her art.</p>
-			<p>She has already created an account on her mobile phone via Instagram app. She has used the same user name as her etsy shop.
-		Uses her Esty logo as her profile picture. In her bio she makes a short statement on what she makes and links to her esty shop.
-			She also make sure her Instagram is public so everyone can see her posts.</p>
+			<p> <strong>Preconditions:</strong>
+				<ul>
+					<li>She has already created an account on her mobile phone via Instagram app.</li>
+					<li>She has used the same user name as her etsy shop.</li>
+					<li>Uses her Esty logo as her profile picture.</li>
+					<li>In her bio she makes a short statement on what she makes and links to her esty shop.</li>
+					<li>She also make sure her Instagram is public so everyone can see her posts.</li>
+					<li>Sends friend request and follows people she knows, and follows other crafters she has met at shows as well.</li>
+					<li>	She allows the app access to her camera.</li>
+				</ul> </p>
+			<p><strong>Postcondition:</strong> Everything is ready to make a post.</p>
 
-			<p>Sends friend request and follows people she knows, and follows other crafters she has met at shows as well.</p>
-			<p>	She allows the app access to her camera.</p>
-			<p> Cheryl plans to create two post every weekend. But will look up Activity on app daily.</p>
+		<p> <strong>Usage:</strong>Cheryl plans to create two post every weekend. But will look up Activity on app daily.</p>
 	</body>
 
 	<body>

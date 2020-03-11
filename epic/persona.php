@@ -5,9 +5,10 @@
 		<title>Persona</title>
 	</head>
 	<body>
+	<img src="Profile.jpeg" alt="profile picture">
 	<h1>Cheryl</h1>
 		<p>Age: 62</p>
-		<p>Gender: female</p>
+		<p>Gender: Female</p>
 	<p>
 	<ul>
 		<li>Single mom with 3 adult daughters.</li>
