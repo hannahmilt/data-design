@@ -6,13 +6,20 @@
 		<link rel="persona" href="./epic/persona.php">
 	</head>
 	<body>
+		<div>
 		<h1><a href="./epic/persona.php">Persona</a></h1>
-	</body>
-	<body>
-		<h1><a href="./epic/user-story.php">User Story</h1>
-	</body>
-	<body>
+		</div>
 
-		<h1><a href="./epic/use-case-interaction-flow.php">Use Case Interaction Flow</h1>
+		<div>
+			<h1><a href="./epic/user-story.php">User Story</a></h1>
+		</div>
+
+		<div>
+			<h1><a href="./epic/use-case-interaction-flow.php">Use Case Interaction Flow</a></h1>
+		</div>
+		<div>
+			<h1><a href="./epic/data-design.php">Data Design</a></h1>
+		</div>
 	</body>
+
 </html>
