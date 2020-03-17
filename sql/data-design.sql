@@ -1,9 +1,5 @@
 ALTER DATABASE hmiltenberger CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 
-DROP TABLE IF EXISTS heart;
-DROP TABLE IF EXISTS post;
-DROP TABLE IF EXISTS profile;
-
 CREATE TABLE profile(
 	profileId BINARY(16) NOT NULL,
 	profileActivationToken CHAR(32),
