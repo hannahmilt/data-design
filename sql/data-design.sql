@@ -40,3 +40,4 @@ CREATE TABLE heart(
    PRIMARY KEY(heartProfileId, heartPostId)
 );
 
+/*don't forget the index for foreign keys/*
